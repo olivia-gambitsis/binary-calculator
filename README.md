@@ -1,1 +1,3 @@
 # binary-calculator
+
+HackerRank challenge 
