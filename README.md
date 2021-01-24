@@ -1,3 +1,5 @@
 # binary-calculator
 
-HackerRank challenge 
+HackerRank challenge to practice implementing Regular expressions 
+
+
