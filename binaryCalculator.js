@@ -30,7 +30,7 @@ function clear() {
 
 function equals() {
 
-    let enteredExpression = document.getElementById('res').innerHTM
+    let enteredExpression = document.getElementById('res').innerHTML
     let numsRegex = /(\d+)/g
 
     let replaceBinaryWithDecimal = enteredExpression.replace(numsRegex, decimalNumbers = function (match) {
